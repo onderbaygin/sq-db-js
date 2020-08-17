@@ -20,3 +20,5 @@
  * https://www.linkedin.com/company/sqdb/
  * https://www.facebook.com/squiddatabase/
  * https://twitter.com/SquidDatabase/
+ 
+*Developed by Onder BAYGIN*
