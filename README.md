@@ -21,4 +21,4 @@
  * https://www.facebook.com/squiddatabase/
  * https://twitter.com/SquidDatabase/
  
-*Developed by Onder BAYGIN*
+*Developed by <a href="https://onderbaygin.com/"> Onder BAYGIN* </a>
