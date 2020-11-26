@@ -1,4 +1,4 @@
-# Squid Database - Build Realtime Applications Quickly 
+# Squid Realtime Database - Build Realtime Applications Quickly 
 
 # Provider Squid Database
  * Squid Database is founded on 2018 for secure and fast data transferring
